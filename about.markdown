@@ -28,7 +28,7 @@ Adobe
 - Captivate
 
 
-###Soft Skills
+### Soft Skills
 Attention-to-Detail
 Time Management
 Communication
