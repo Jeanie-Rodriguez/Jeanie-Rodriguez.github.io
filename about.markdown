@@ -14,7 +14,7 @@ I am currently seeking a role that leverages my expertise and knowledge while al
 ## Skills
 
 ### Technical Competencies
-Microsoft 365
+**Microsoft 365**
 - Word
 - Excel
 - PowerPoint
@@ -23,22 +23,31 @@ Microsoft 365
 - Project
 - Outlook
 
-Google Docs
+**Google Docs**
 
-Adobe
+**Adobe**
 - Acrobat Pro
 - Captivate
 
 
 ### Soft Skills
 Attention-to-Detail
+
 Time Management
+
 Communication
+
 Collaboration
+
 Organization
+
 Editing / Proofreading
+
 Problem Solving
+
 Documentation
+
 Project Management
+
 Researching
 
