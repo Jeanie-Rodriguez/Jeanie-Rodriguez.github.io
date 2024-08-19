@@ -9,3 +9,34 @@ I have extensive experience in operations and project management and in creating
 
 I am currently seeking a role that leverages my expertise and knowledge while also providing opportunities for professional growth.
 
+---
+
+##Skills
+
+###Technical Competencies
+Microsoft 365
+- Word
+- Excel
+- PowerPoint
+- SharePoint
+- Teams
+- Project
+- Outlook
+Google Docs
+Adobe
+- Acrobat Pro
+- Captivate
+
+
+###Soft Skills
+Attention-to-Detail
+Time Management
+Communication
+Collaboration
+Organization
+Editing / Proofreading
+Problem Solving
+Documentation
+Project Management
+Researching
+
