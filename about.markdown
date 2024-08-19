@@ -11,9 +11,9 @@ I am currently seeking a role that leverages my expertise and knowledge while al
 
 ---
 
-##Skills
+## Skills
 
-###Technical Competencies
+### Technical Competencies
 Microsoft 365
 - Word
 - Excel
