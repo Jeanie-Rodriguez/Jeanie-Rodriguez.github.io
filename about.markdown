@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: About
+title: About Me
 permalink: /about/
 ---
 I'm a dedicated professional with over 20 years of experience in the United States Air Force as a Weather Technician. My career has been marked by a passion for delivering high-quality work with a focus on precision, reliability, effective communication, and innovative problem-solving.
