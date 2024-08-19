@@ -22,7 +22,9 @@ Microsoft 365
 - Teams
 - Project
 - Outlook
+
 Google Docs
+
 Adobe
 - Acrobat Pro
 - Captivate
