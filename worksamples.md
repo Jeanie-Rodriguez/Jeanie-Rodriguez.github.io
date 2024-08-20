@@ -1,8 +1,8 @@
 ---
 title: "Work Samples"
-layout: archive
+layout: categories_work
 author: Jeanie Rodriguez
 author_profile: true
 ---
 
-Example.
+Below you will find my work organized by category.
