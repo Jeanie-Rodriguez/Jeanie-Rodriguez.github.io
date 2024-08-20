@@ -3,6 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+author: Jeanie Rodriguez
+author_profile: true
 ---
 ![jeanie rodriguez](/assets/css/images/jeanie.png){: .avatar}
 ## Precision | Professional | Proven Results
