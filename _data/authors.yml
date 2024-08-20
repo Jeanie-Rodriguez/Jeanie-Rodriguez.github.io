@@ -1,11 +1,11 @@
 Jeanie Rodriguez:
-  name        : "Jeanie Rodriguez"
+  name        : "Contact Information"
   bio         : ""
   avatar      : "https://placehold.co/400"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:name@email.com"
+      url: "mailto:jeanie.h.rodriguez@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://www.mywebsite.com"
+      url: "https://www.linkedin.com/in/jeanie-rodriguez/"
