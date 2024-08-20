@@ -1,7 +1,7 @@
 Jeanie Rodriguez:
   name        : "Contact Information"
   bio         : ""
-  avatar      : "https://placehold.co/400"
+  avatar      : /assets/css/images/openbook.jpg
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
