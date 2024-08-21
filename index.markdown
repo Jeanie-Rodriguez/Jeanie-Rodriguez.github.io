@@ -7,7 +7,7 @@ author: Jeanie Rodriguez
 author_profile: true
 ---
 
-## Hello! I'm Jeanie Rodriguez.
+# Welcome to my Portfolio!
 
 ![jeanie rodriguez](/assets/css/images/jeanie.png){: .avatar}
 

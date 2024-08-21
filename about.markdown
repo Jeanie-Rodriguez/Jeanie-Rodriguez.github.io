@@ -2,6 +2,8 @@
 layout: archive
 title: About Me
 permalink: /about/
+author_profile: true
+author: Jeanie Rodriguez 
 ---
 With over 20 years of service in the United States Air Force as a Weather Technician, my career has been defined by a commitment to excellence, marked by precision, reliability, effective communication, and innovative problem-solving.
 
@@ -26,8 +28,10 @@ I am currently seeking a role that leverages my experience and knowledge while o
 | Technical Writing | Adaptability |
 | Documentation | Empathy |
 
+---
+
 Throughout my career I've worked extensivly with Microsoft 365 (Word, Excel, PowerPoint, SharePoint, Teams, Outlook, etc.) and Adobe Acrobat Pro, as these are the main software suites available and approved for use on the Air Force network. 
 
 To continuously expand my skill set, I have actively pursued courses on Confluence, MadCap Flare, markup languages, GitHub, and more. Although I have not had the opportunity to apply these tools in a professional capacity, I am a quick learner and confident in my ability to adapt to any software and tools required in a new role.
 
-I created this GitHub page to demonstrate my capability to apply some of these concepts, and to showcase my technical writing skills.
+I created this GitHub page to demonstrate my ability to apply these concepts and to showcase some of my technical writing skills.
