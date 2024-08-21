@@ -15,4 +15,24 @@ header:
 ---
 In Air Force weather, every work center is required to document Standard Operating Procedures that cover an established set of topics.
 
-Throughout my career, I have consistently taken the lead in writing, editing, and managing these SOPs across all the work centers I’ve been a part of. I have developed SOPs using Microsoft Word and Adobe PDF, which encompass a diverse array of topics.
+Throughout my career, I have consistently taken the lead in writing, editing, and managing these SOPs across all the work centers I’ve been a part of. I have developed SOPs using Microsoft Word and Adobe PDF, which encompass a diverse array of topics, including:
+
+<table>
+    <tr>
+        <td>Terminal Aerodrome Forecast Procedures</td>
+        <td>Manual Observing Procedures</td>
+        <td>Pilot Report & Pilot-to-Metro Procedures</td> 
+    </tr>
+    <tr>
+        <td>Weather Watch, Warning, & Advisory Procedures</td>
+        <td>Severe Weather Team Procedures</td>
+        <td>Continuity of Operations Procedures</td>
+    </tr>
+    <tr>
+        <td>Emergency Evacuation Procedures</td>
+        <td>Equipment Outage Procedures</td>
+        <td>Aircraft Mishap Response Procedures</td>
+    </tr>
+</table>
+
+This is an excerpt from an SOP I created which provides step-by-step instructions for updating a comprehensive Excel spreadsheet that tracks manning data for a division of 1,900 employees. This SOP was created to address a lack of documentation and to help future team members efficiently learn these processes.
