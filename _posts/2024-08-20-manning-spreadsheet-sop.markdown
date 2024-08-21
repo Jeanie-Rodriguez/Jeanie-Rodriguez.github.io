@@ -13,7 +13,7 @@ header:
  teaser: https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?q=80&w=2952&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
  caption: "Photo Credit: [Unsplash: Lukas Blazek](https://unsplash.com/@goumbik)"
 ---
-In Air Force weather, every work center is required to document Standard Operating Procedures that cover an established set of topics.
+The Air Force weather career field requires every work center to document Standard Operating Procedures (SOPs) covering an established set of topics.
 
 Throughout my career, I have consistently taken the lead in writing, editing, and managing these SOPs across all the work centers I’ve been a part of. I have developed SOPs using Microsoft Word and Adobe PDF, which encompass a diverse array of topics, including:
 
