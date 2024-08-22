@@ -6,6 +6,7 @@ layout: home
 author: Jeanie Rodriguez
 author_profile: true
 ---
+# Welcome to my Portfolio!
 
 ![jeanie rodriguez](/assets/css/images/jeanie.png){: .avatar}
 
