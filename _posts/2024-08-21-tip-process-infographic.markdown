@@ -14,8 +14,6 @@ header:
  caption: "Photo Credit: [Unsplash: ThisisEngineering](https://unsplash.com/@thisisengineering)"
 ---
 
-I have a strong appreciation for well-crafted infographics. Recently, I’ve taken the initiative to design my own to effectively break down and communicate complex processes and concepts to my teams and stakeholders.
+This infographic was created in Canva and was ultimately distributed to 87 offices. It explains how employees can submit their ideas for inclusion in Air Force Tactics, Techniques, and Procedures (*best practice guides*) and illustrates the approval process for both categories using a side-by-side comparison. 
 
-This particular infographic, created in Canva, illustrates the process for submitting improvement proposals to Air Force Tactics, Techniques, and Procedures (best practice guides), along with a side-by-side comparison of the approval processes for both categories of these guides.
-
-The information was originally scattered across three comprehensive documents and not presented in a straightforward manner. Developing this infographic required extensive research and close collaboration with subject matter experts to ensure its accuracy.
+To develop this infographic, I conducted extensive research of source materials and collborated with subject matter experts to ensure accuracy.

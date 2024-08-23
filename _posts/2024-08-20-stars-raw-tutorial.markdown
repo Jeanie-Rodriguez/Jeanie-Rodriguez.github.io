@@ -14,11 +14,10 @@ header:
  caption: "Photo Credit: [Unsplash: Scott Graham](https://unsplash.com/@homajob)"
 ---
 
-This short tutorial provides a step-by-step guide on creating and saving customized reports on the STARS/RAW website. These reports are essential for updating weekly manning statistics for a division comprising 1,900 employees.
+This short tutorial was created in Micosoft Teams and is used for internal training. It provides a step-by-step guide on creating and saving customized reports on a website (*STARS/RAW*).
 
-As part of a series of training videos, this resource was developed to fill a documentation gap and assist future team members in mastering these processes. Prior to this, there was no formal documentation available.
+As part of a series, this training video was developed to fill a documentation gap and assist future team members in mastering these processes. Prior to this, there was no formal documentation available. 
 
-I created this video using Microsoft Teams, as the Air Force network restricts the use of other software applications.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hnmiByvcYMU?si=TBdE_iRqJUHX-6Kr"
 title="YouTube video player" frameborder="0"
